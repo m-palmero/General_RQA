@@ -121,7 +121,7 @@ Supported norms:
 ---
 
 ## 📬 Contact & Issues
-For **bug reports** or **feature requests**, feel free to contact **Matheus Palmero** or open an issue in the repository.
+For **bug reports** or **feature requests**, feel free to contact me (matheuspalmero@gmail.com) or open an issue in the repository.
 
 🚀 **Happy Analyzing!**
 
